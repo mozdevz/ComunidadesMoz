@@ -45,9 +45,10 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   Vias de Comunicação
 
   1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
+      1. [whatsapp](https://chat.whatsapp.com/7cfBZvo5GON3YrlPVwek6y)
+      2. [Facebook](https://pt-br.facebook.com/groups/gdgmaputo/)
   2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
   3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
-  4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
   5. [Medium](https://medium.com/android-dev-moz)
 
 </details>
@@ -88,6 +89,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
   3. [Telegram](https://t.me/MozDevz)
+  4. [Twitter](https://twitter.com/MozDevz)
 
 </details>
 
