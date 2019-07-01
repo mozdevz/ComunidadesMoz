@@ -40,6 +40,8 @@ If you know a community that's not listed here, you can send a PR, which will be
   Contacts 
 
   1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
+      1. [whatsapp](https://chat.whatsapp.com/7cfBZvo5GON3YrlPVwek6y)
+      2. [Facebook](https://pt-br.facebook.com/groups/gdgmaputo/)
   2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
   3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
   4. [Facebook's Group (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
@@ -71,6 +73,8 @@ If you know a community that's not listed here, you can send a PR, which will be
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
   3. [Telegram](https://t.me/MozDevz)
+  4. [Twitter](https://twitter.com/MozDevz)
+  
 
 </details>
 
